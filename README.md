@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @jf-delineate
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I love Software, Cloud, DevSecOps & Quality Engineering.  Despite leading large engineering teams I continue to remain hands on and intend to move back from Engineering leadership/management to being an [IC](https://www.betterup.com/blog/individual-contributor) before retirement!
 
-<!---
-jf-delineate/jf-delineate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I host the majority of my repos on the GitHub organisation [delineateio](https://github.com/delineateio) rather than a a personal account at [delineateio](https://github.com/jf-delineate).  This is so that I can learn more about GitHub organisaional features. 
+
+- 👀 I’m interested in ...
+  - Frontend & mobile development using [Flutter](https://flutter.dev/)
+  - Newer cloud native protocols such as [gRPC](https://grpc.io/) and [GraphQL](https://graphql.org/)
+  - API and backend development using both [Go](https://go.dev/) and [Python](https://www.python.org/)
+  - NoSQL databases and specifically [Redis](https://redis.io/) and [Neo4j](https://neo4j.com/)
+  - All multi-cloud solutions provided by [Hashicorp](https://www.hashicorp.com/) but particularly [Terraform](https://www.terraform.io/)
+  - Workload orchestration using [k8s](https://kubernetes.io/) leveraging tools such as [ko](https://github.com/ko-build/ko), [skaffold](
+https://github.com/GoogleContainerTools/skaffold), etc
+  - Cloud platforms in general and specifically [Google Cloud Platform (GCP)](https://cloud.google.com/)
+- 💞️ I’m looking to collaborate on ...
+  - Open Source Projects
+  - Hackathons 
+  - Local community events
+- 📫 How to reach me...  
+  - Follow or DM on [Twitter](https://twitter.com/delineateio)
+  - Connect or DM on [LinkedIn](https://www.linkedin.com/in/jonathan-fenwick)
+  - Email at <jonathan.fenwick@delineate.io>
